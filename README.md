@@ -1,1 +1,1 @@
-# world-cup
+# This is currently a semi-working world-cup simulator using pandas, random and numpy imports. From this, I generate the top 10 winners based on random ratings and simulation systems. It was a fun exercise on probability and data. 
